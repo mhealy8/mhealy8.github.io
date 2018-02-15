@@ -1,0 +1,14 @@
+body { background: red;
+       color: black;
+       font-size: 14pt; }
+       body { font-family: 'Roboto Condensed', sans-serif; }
+       h1 { font-size: 400%;
+     font-weight: bold;
+     color: lightblue }
+     
+h2 { font-size: 250%;
+	font-style: bold }
+     a { color: black;
+    text-decoration: none }
+a:hover { color: darkcyan }
+ 
